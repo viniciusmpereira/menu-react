@@ -27,9 +27,6 @@ function Navbar() {
             <li className='p-4 border-b border-gray-600'>Home</li>
             <li className='p-4 border-b border-gray-600'>Sobre nós</li>
             <li className='p-4 border-b border-gray-600'>Contato</li>
-            <li className='p-4 border-b border-gray-600'>Home</li>
-            <li className='p-4 border-b border-gray-600'>Home</li>
-            <li className='p-4 border-b border-gray-600'>Home</li>
           </ul>
         </div>
     </div>
