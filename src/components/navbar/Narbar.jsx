@@ -13,6 +13,7 @@ function Navbar() {
         <ul className='hidden md:flex'>
           <li className='p-4'>Home</li>
           <li className='p-4'>Sobre</li>
+          <li className='p-4'>Mensagem</li>
           <li className='p-4'>Contato</li>
           
         </ul>
@@ -26,6 +27,7 @@ function Navbar() {
           <ul className='pt-12 uppercase'>
             <li className='p-4 border-b border-gray-600'>Home</li>
             <li className='p-4 border-b border-gray-600'>Sobre nós</li>
+            <li className='p-4 border-b border-gray-600'>Mensagem</li>
             <li className='p-4 border-b border-gray-600'>Contato</li>
           </ul>
         </div>
